@@ -157,7 +157,7 @@ ul li:hover a {
 
 .banner1 {
 	background-color: #837E63;
-	background-image: url(../img/room.JPG);
+	background-image: url(../img/room.jpg);
 	height: 600px;
 	background-attachment: fixed;
 	background-size: cover;
@@ -186,7 +186,7 @@ text-weight: 600;
 
 .banner4 {
 	background-color: #837E63;
-	background-image: url(../img/bress.jpg);
+	background-image: url(../img/bress.JPG);
 	height: 600px;
 	background-attachment: fixed;
 	background-size: cover;
